@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jaisondavis
-- 👀 I’m looking to HIRE remote devs with exp in Vue and/or Socket.io
 - 📫 You can reach me at jaisondavisin@gmail.com
 
 <!---
